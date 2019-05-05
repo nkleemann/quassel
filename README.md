@@ -22,6 +22,5 @@ jellyy
 boouke
 araaon
 ```
-
 ## Note
-This is nothing fancy, just a random pick from anarrowed down set of pre-, in- and suffixes chosen and filtered by number of occurence in the sample data. 
+This is nothing fancy, just a random pick from anarrowed down set of pre-, in- and suffixes chosen and filtered by number of occurence in the sample data.
